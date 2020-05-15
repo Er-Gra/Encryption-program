@@ -1,13 +1,10 @@
 /*
- * Date
- * Name
- * Program
+ * May 15, 2020
+ * Erika Graham
+ * My First Encryption Program
  */
 
-/**
- *
- * @author kikag
- */
+
 public class frmEncryptionProgram extends javax.swing.JFrame {
 
     /**
